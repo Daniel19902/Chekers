@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Table
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Table\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=width\ moverX\ moverY
+comment1.target=Table(int,\ int,\ int)
+comment2.params=width\ moverX\ moverY
+comment2.target=void\ table(int,\ int,\ int)
+comment3.params=
+comment3.target=void\ makeVisible()
+comment4.params=white\ king\ row\ column
+comment4.target=void\ add(boolean,\ boolean,\ int,\ int)
+comment5.params=row\ column\ white
+comment5.target=void\ crearFicha(int,\ int,\ boolean)
+comment6.params=row\ column
+comment6.target=void\ select(int,\ int)
+comment7.params=top\ right
+comment7.target=void\ shift(boolean,\ boolean)
+comment8.params=top\ right
+comment8.target=void\ jump(boolean,\ boolean)
+numComments=9

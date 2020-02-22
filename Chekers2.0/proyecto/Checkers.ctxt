@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Checkers
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Checkers\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=width
+comment1.target=Checkers(int)
+comment1.text=\r\n\ Checkers\ realiza\ el\ tablero\ de\ configuracion\ y\ de\ juego\r\n\ @param\ width\ un\ entero\ para\ determinar\ el\ tama\u00F1o\ del\ tablero\ (width*width)\r\n
+comment2.params=
+comment2.target=void\ makeVisible()
+comment3.params=white\ king\ row\ column
+comment3.target=void\ add(boolean,\ boolean,\ int,\ int)
+comment4.params=white\ men
+comment4.target=void\ add(boolean,\ int[][])
+comment5.params=row\ column
+comment5.target=void\ select(int,\ int)
+comment6.params=top\ right
+comment6.target=void\ shift(boolean,\ boolean)
+comment7.params=top\ right
+comment7.target=void\ jump(boolean,\ boolean)
+numComments=8
