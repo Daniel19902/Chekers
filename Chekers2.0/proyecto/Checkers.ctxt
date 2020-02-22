@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Checkers
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Checkers\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Checkers\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ holaaaa\ \ que\ hace\r\n
 comment1.params=width
 comment1.target=Checkers(int)
 comment1.text=\r\n\ Checkers\ realiza\ el\ tablero\ de\ configuracion\ y\ de\ juego\r\n\ @param\ width\ un\ entero\ para\ determinar\ el\ tama\u00F1o\ del\ tablero\ (width*width)\r\n

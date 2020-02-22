@@ -5,6 +5,7 @@ import java.util.ArrayList;
  *
  * @author (your name)
  * @version (a version number or a date)
+ * holaaaa  que hace
  */
 public class Checkers
 {
